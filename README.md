@@ -1,11 +1,11 @@
-"# cumpleanos-be"
+# cumpleanos-be
 
-#Requerimientos
+# Requerimientos
 
 Se debe tener instalado java 8 o superior 
 Entorno de construcción Maven 3.6.3
 
-#Instalación
+# Instalación
 
 Clonar el repositorio
 
