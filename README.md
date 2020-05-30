@@ -1,8 +1,9 @@
-# cumpleanos-be
+# Cumpleanos-be
 
 # Requerimientos
 
-Se debe tener instalado java 8 o superior 
+Se debe tener instalado java 8 o superior._
+
 Entorno de construcción Maven 3.6.3
 
 # Instalación
